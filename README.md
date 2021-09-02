@@ -15,5 +15,5 @@ By default, the interval between each math operations is ***0.5 seconds***. Sinc
 ## Bugs and Contributions
 I am improving this project since there might be some bugs and unintended behavior. As always, I'm currently seeking for contributions. If you found a bug, open an [issue](https://github.com/tlegx/3xplus1/issues) or look for ways to contact me on my [GitHub README](https://github.com/tlegx)
 ## License
-3x+1 is licensed under the MIT License
+3x+1 is licensed under the MIT License</br>
 For more information, visit [LICENSE](https://github.com/tlegx/3xplus1/blob/master/LICENSE)
