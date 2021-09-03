@@ -9,7 +9,7 @@ python main.py
 ```
 in a terminal or you can simply double-click to run it. Follow the instruction to begin.</br>
 ***Notice:*** to prevent an indefinite "4, 2, 1" loop, a check had been added to exit from the loop after 5 times.
-## Increasing the interval
+### Increasing the interval
 By default, the interval between each math operations is ***0.5 seconds***. Since the code is licensed under the [MIT License](https://github.com/tlegx/3xplus1/blob/master/LICENSE), you are free to change this value (and other bits of the code too, without permission!) to whatever you'd like.</br>
 ***Important:*** I will work on a more easy way to customize this without touching the code (like adding a config file). This feature may be released in the next version.
 ## Bugs and Contributions
